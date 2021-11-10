@@ -1,0 +1,1 @@
+- Você só sabe se alguma coisa funciona quando ela é testada
