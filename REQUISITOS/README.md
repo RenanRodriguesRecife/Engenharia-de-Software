@@ -17,6 +17,8 @@ FrontEnd
                 - Daltonismo - tritanopia (dificuldade em distinguir o azul do verde e o amarelo do violeta)
                 - Daltonismo - deuteranopia (dificuldade em distinguir o vermelho do verde, o roxo do azul, e alguns tons de cinza)
 
+                Obs: Se possível dar a possibilidade de modificar a intensidade desses efeitos para os daltonicos.
+
                 - Aumento da fonte
                 - Aumento do brilho
                 - Contraste (background preto, letras amarelas, ícones brancos)
