@@ -2,6 +2,29 @@ WEBAPP - páginas na web:
 
 --  2021 -- 
 
+FrontEnd
+
+    - Suporte para Desabilitação de Animaçao
+
+    - Suporte para dispositivos Mobile
+    - Suporte de navegação por teclado
+
+    Acessibilidade:
+    
+        - Suporte para deficientes visuais
+                - Completa perda de visão
+                - Daltonismo - protanopia (dificuldade em distinguir as cores vermelhas)
+                - Daltonismo - tritanopia (dificuldade em distinguir o azul do verde e o amarelo do violeta)
+                - Daltonismo - deuteranopia (dificuldade em distinguir o vermelho do verde, o roxo do azul, e alguns tons de cinza)
+
+                - Aumento da fonte
+                - Aumento do brilho
+                - Contraste (background preto, letras amarelas, ícones brancos)
+
+        - Suporte para deficientes auditívos
+                - Ex: Nenhuma informação pode ser apenas auditiva.
+
+
 SEO (Search Engine Optimization):
 
 SEGURANÇA:
