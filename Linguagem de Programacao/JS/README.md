@@ -1,6 +1,7 @@
-Vantagem de REACTJS sobre Html e CSS puro:
+Vantagem de REACTJS sobre Html e CSS puro (MITO - falso):
 - O react cria um hash com o DOM do Html tornando o acesso mais rápido que o acesso convencional por busca em uma arvore.
 
+(fonte: https://www.youtube.com/watch?v=l4_y0n7a9EU)
 
 
 

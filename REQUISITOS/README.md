@@ -25,6 +25,8 @@ FrontEnd
 
         - Suporte para deficientes auditívos
                 - Ex: Nenhuma informação pode ser apenas auditiva.
+		
+	- Fontes para disléxicos
 
 
 SEO (Search Engine Optimization):
