@@ -7,6 +7,8 @@ Na aplicação SSR temos 2 atores
 - A aplicação (BackEnd + FrontEnd)
 - Usuário
 
+<img src=".assets/ssr.jpg"/>
+
 1 - O usuário faz uma requisição a aplicação
 2 - O a aplicação processa a requisição e envia um código (HTML / CSS / JS) para o browser.
 
