@@ -24,7 +24,8 @@ Na aplicação SPA temos 3 atores
 - A aplicação FrontEnd
 - Browser
 
+<img src="../.assets/spa.jpg"/>
 
 1 - O usuário faz uma requisição a aplicação
 2 - O backEnd envia para o FrontEnd uma estrutura de dados JSON(Javascript Object Notation), XML...
-2 - A aplicação FrontEnd processa a requisição e envia um código (HTML / CSS / JS) para o browser.
+2 - A aplicação FrontEnd processa a requisição e envia um código de acordo com seus respectivos dispositivos.
