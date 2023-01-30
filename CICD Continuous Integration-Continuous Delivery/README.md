@@ -16,11 +16,13 @@ https://www.youtube.com/watch?v=IPLTUlRFxgo&t=510s
 
 Versionamento de Código:
 
-
+```
   1    .     0    .     3
 MAJOR      MINOR      PATCH
+```
 
 MAJOR - Mudanças fundamentais / Incompatibilidade com versões anteriores
 
+MINOR - Adição de funcionalidade / Compatível com versões anteriores
 
-MINOR - Adição de funcionalidade / 
+PATCH - Bug fixes / Compatível com versões anteriores
