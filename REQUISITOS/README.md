@@ -55,3 +55,19 @@ Ex: Ao invés de mandar uma linha completa quando faz uma requisição
 
     Desvantagens:
     - Performance e disponibilidade no servidor: como o processamento da página dinâmica é no backend se existir um pico de requisição pode causar problemas.
+
+
+===================================================================
+
+operação de software:
+
+Antigamente black frayday era uma vez por ano. Hoje pode ser em qualquer momento
+
+- quais são os logs?
+
+- como agente melhora?
+
+- qual é o monitoramento?
+
+Pode ser que um youtubeR divulque a empresa e derepente o aplitivo receba vários 
+acessos
