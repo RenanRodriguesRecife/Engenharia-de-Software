@@ -6,4 +6,4 @@
 
 - Teste de Integração: Você pode pegar diversas unidades e fazer com que elas se comuniquem ou eventualmente você pode até acessar um banco de dados para fazer algum tipo de teste
 
-- Teste End to End: Que é onde você automatiza o processo de entrada desde a cadeia de início do seu software até o resultado final
+- Teste End to End: É onde você automatiza o processo de entrada desde a cadeia de início do seu software até o resultado final
