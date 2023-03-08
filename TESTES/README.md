@@ -1,5 +1,7 @@
 - Você só sabe se alguma coisa funciona quando ela é testada
 
+- (estabilidade) Quanto mais simples é testar uma aplicação melhor escrita está essa aplicação, quanto mais simples é criar um teste melhor arquitetádo está um código
+
 ## 3 diferentes tipos de testes automatizados:
 
 - Teste de unidade: Testa apenas um pedaço do seu código de forma totalmente isolada. Esse pedaço não pode depender de nada (incluindo banco de dados), não pode depender de outra classes, você precis testar apenas e garantir aquele comportamento.
