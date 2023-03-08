@@ -15,3 +15,5 @@
 - Teste End to End (E2E): É onde você automatiza o processo de entrada desde a cadeia de início do seu software até o resultado final
 
 (Apesar dos testes de integração e End to End poderem usar coisas externas (banco de dados, apis...). A partir do momento que você cria testes End to End que usa coisas externas ele se torna extremamente custoso).
+
+<img src="../.assets/piraTest.png">
