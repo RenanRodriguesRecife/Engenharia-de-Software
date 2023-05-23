@@ -1,5 +1,10 @@
 WEBAPP - páginas na web:
 
+
+-- 2023 --
+
+O que vai definir a escolha de uma stack, linguagem... para um projeto é basicamente o quanto de vantagem ela vai trazer para o negócio.
+
 --  2021 -- 
 
 FrontEnd
